@@ -1,8 +1,8 @@
 # 💻 Abolfazl Shadrouh – Personal Portfolio
 
-[![GitHub stars](https://img.shields.io/github/stars/abolfazl-shadrouh/Portfolio?style=social)](https://github.com/abolfazl-shadrouh/Portfolio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/abolfazl-shadrouh/Portfolio?style=social)](https://github.com/abolfazl-shadrouh/Portfolio/network)
-[![License](https://img.shields.io/github/license/abolfazl-shadrouh/Portfolio)](https://github.com/abolfazl-shadrouh/Portfolio/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/abolfazl-shadrouh/Portfolio?style=social)](https://github.com/abolfazl-shadrouh/homepage/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/abolfazl-shadrouh/Portfolio?style=social)](https://github.com/abolfazl-shadrouh/homepage/network)
+[![License](https://img.shields.io/github/license/abolfazl-shadrouh/Portfolio)](https://github.com/abolfazl-shadrouh/homepage/blob/main/LICENSE)
 
 **Welcome to my personal portfolio website!**  
 ✨ A modern, fully responsive website showcasing my projects, skills, and contact information — designed with smooth animations, custom cursor, and elegant UI.
