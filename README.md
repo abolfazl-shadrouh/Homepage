@@ -100,9 +100,7 @@ A visual preview of the portfolio website on different devices.
 📱 HomePage (Mobile)
 
 <img src="assets/screenshots/Screenshot 2025-10-20 123922.png" alt="Home Mobile" width="200"/>
-
 <img src="assets/screenshots/Screenshot 2025-10-20 123945.png" alt="About Mobile" width="200"/>
-
 <img src="assets/screenshots/Screenshot 2025-10-20 124023.png" alt="Get in touch Mobile" width="200"/>
 
 🖥️ HomePage (Desktop)
