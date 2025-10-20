@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/abolfazl-shadrouh/Portfolio)](https://github.com/abolfazl-shadrouh/homepage/blob/main/LICENSE)
 
 **Welcome to my personal portfolio website!**  
+
 ✨ A modern, fully responsive website showcasing my projects, skills, and contact information — designed with smooth animations, custom cursor, and elegant UI.
 
 ---
@@ -97,15 +98,21 @@ To run locally:
 A visual preview of the portfolio website on different devices.
 
 📱 HomePage (Mobile)
+
 <img src="assets/screenshots/Screenshot 2025-10-20 123922.png" alt="Home Mobile" width="300"/>
+
 <img src="assets/screenshots/Screenshot 2025-10-20 123945.png" alt="About Mobile" width="300"/>
-<img src="assets/screenshots/Screenshot 2025-10-20 124005.png" alt="Projects Mobile" width="300"/>
+
 <img src="assets/screenshots/Screenshot 2025-10-20 124023.png" alt="Get in touch Mobile" width="300"/>
 
 🖥️ HomePage (Desktop)
+
 <img src="assets/screenshots/Screenshot 2025-10-20 123528.png" alt="Home Desktop" width="400"/>
+
 <img src="assets/screenshots/Screenshot 2025-10-20 123647.png" alt="About Desktop" width="400"/>
+
 <img src="assets/screenshots/Screenshot 2025-10-20 123704.png" alt="Projects Desktop" width="400"/>
+
 <img src="assets/screenshots/Screenshot 2025-10-20 123717.png" alt="Get in touch Desktop" width="400"/>
 
 ---
