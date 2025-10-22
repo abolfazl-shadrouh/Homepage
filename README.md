@@ -1,8 +1,8 @@
 # 💻 Abolfazl Shadrouh – Personal Portfolio
 
-[![GitHub stars](https://img.shields.io/github/stars/abolfazl-shadrouh/Portfolio?style=social)](https://github.com/abolfazl-shadrouh/homepage/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/abolfazl-shadrouh/Portfolio?style=social)](https://github.com/abolfazl-shadrouh/homepage/network)
-[![License](https://img.shields.io/github/license/abolfazl-shadrouh/Portfolio)](https://github.com/abolfazl-shadrouh/homepage/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/abolfazl-shadrouh/homepage?style=social)](https://github.com/abolfazl-shadrouh/homepage/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/abolfazl-shadrouh/homepage?style=social)](https://github.com/abolfazl-shadrouh/homepage/network)
+[![License](https://img.shields.io/github/license/abolfazl-shadrouh/\homepage)](https://github.com/abolfazl-shadrouh/homepage/blob/main/LICENSE)
 
 **Welcome to my personal portfolio website!**  
 
